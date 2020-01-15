@@ -1,2 +1,2 @@
-# Tallityllerot
+# Tallitytyt
 PIT-kurssin nettisivun suunnitteluprojekti
